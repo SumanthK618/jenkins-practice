@@ -8,7 +8,7 @@
             margin: 0;
             padding: 0;
             font-family: "Segoe UI", Arial, sans-serif;
-            background: linear-gradient(135deg, blue, black);
+            background: linear-gradient(135deg, white, blue);
             height: 100vh;
             display: flex;
             justify-content: center;
