@@ -21,7 +21,7 @@
             padding: 40px 60px;
             border-radius: 20px;
             backdrop-filter: blur(10px);
-            color: white;
+            color: grey;
             box-shadow: 0 8px 20px rgba(0,0,0,0.2);
             animation: fadeIn 1.5s ease;
         }
@@ -48,6 +48,7 @@
 <body>
     <div class="container">
         <h1>Welcome to DevOps</h1>
+<h2>Created a Job in Jenkins</h2>
         <div class="author"> ---Sumanth K---</div>
     </div>
 </body>
